@@ -1,17 +1,27 @@
 {
   "id": "./",
-  "name": "Ritmo — Minha Rotina",
+  "name": "Ritmo — Sua rotina",
   "short_name": "Ritmo",
-  "description": "Acompanhe água, alimentação, treinos, medicamentos e evolução com privacidade.",
+  "description": "Sua rotina de saúde, com registros privados e sincronização entre aparelhos.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F6F7F5",
-  "theme_color": "#F6F7F5",
+  "background_color": "#080909",
+  "theme_color": "#080909",
   "lang": "pt-BR",
   "icons": [
-    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }

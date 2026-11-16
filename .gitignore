@@ -1,0 +1,6 @@
+.openai/
+node_modules/
+.env*
+Ritmo_Configuracao_Pessoal.json
+*backup*.json
+dist/
